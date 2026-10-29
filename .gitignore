@@ -1,0 +1,10 @@
+clustering_data/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.aux
+*.log
+*.out
+*.synctex.gz
+.DS_Store
+Thumbs.db
